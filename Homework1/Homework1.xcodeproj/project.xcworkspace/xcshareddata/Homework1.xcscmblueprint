@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "905B3A6BAB2F11D7150D6EA80A5AADF9EDCBA383" : 9223372036854775807,
+    "C815BC4E4993218CC3792D3A49B23F68F19A7A2F" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "07053B04-06DD-402C-AE11-B1E6853296A1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "905B3A6BAB2F11D7150D6EA80A5AADF9EDCBA383" : "",
+    "C815BC4E4993218CC3792D3A49B23F68F19A7A2F" : "Homework1\/Homework1\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Homework1",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Homework1.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/github.com\/ngocpa2311\/module2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "905B3A6BAB2F11D7150D6EA80A5AADF9EDCBA383"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ngocpa2311\/HomeworkLession3.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C815BC4E4993218CC3792D3A49B23F68F19A7A2F"
+    }
+  ]
+}
